@@ -1,0 +1,2 @@
+# Node_Express_MySQl_sequqlize
+Demo application for Node_Express_MySQl_sequqlize connection
